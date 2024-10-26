@@ -1,13 +1,3 @@
-.
-├── README.md                 # Overview of the repository and contents
-├── assignments               # Directory for all assignment submissions
-│   ├── assignment_1          # Assignment 1: Problem details, code, and solution explanation
-│   ├── assignment_2          # Assignment 2: Additional problem-solving with documentation
-│   └── ...                   # More assignments as they are added
-├── examples                  # Code examples covered during lectures
-│   ├── search_algorithms     # Implementations of search algorithms (e.g., BFS, DFS)
-│   ├── optimization          # Examples of optimization techniques in AI
-│   └── ...                   # More directories for various AI topics
-└── resources                 # Supplementary materials and references
-    ├── lecture_notes         # Lecture notes for reference
-    └── datasets              # Sample datasets used in assignments/examples
+# Introduction to Artificial Intelligence Using Python
+
+Welcome to the Introduction to Artificial Intelligence using Python repository! This repository contains assignment solutions for the PMRF lecture series on AI. The primary focus is on implementing fundamental AI algorithms and techniques using Python.
